@@ -1,9 +1,16 @@
 # Science notebook template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmyersturnbull/science-notebook-template/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrankKr/InaccuraciesMeteorologyCongestionManagement/HEAD)
 [![DOI](https://zenodo.org/badge/335203974.svg)](https://zenodo.org/badge/latestdoi/335203974)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![template science_notebook](https://img.shields.io/badge/template-science_notebook-990099.svg)](https://github.com/dmyersturnbull/science-notebook-template)
+
+TODO's
+- Finalize notebook
+- Get DOI from Zenodo
+- update ReadMe
+
+
 
 🧪 A simple, elegant template for repositories supporting publications.  
 Scientific companion to the much more sophisticated code template [Tyrannosaurus 🦖](https://github.com/dmyersturnbull/tyrannosaurus)  
@@ -52,19 +59,10 @@ Or APA format:
 4. Make a local clone of your repo. Modify the readme, changelog, etc. Add your code/notebooks.
 5. Commit and push to _main_. (If a linter fails on commit, just re-run. It just meant the linter modified a file.)
 
-### 🔒 Branch protection rules
-
-This template includes
-[branch protection](https://docs.github.com/en/github-ae@latest/github/administering-a-repository/managing-a-branch-protection-rule)
-rules for the _main_ branch that disable force-commits, forbid direct pushes,
-require status checks to pass, and require a linear history.
-You can configure these rules under _Settings → Branches → main_.
-The typical workflow is: push changes to a new branch, make a pull request against _main_, and squash–merge or rebase into _main_ after the status checks pass.
-An _admin_-role user _can_ push directly to _main_, but non-_admin_ users (with write access) must make pull requests.
-
 ### 🍁 Contributing
 
 **Tell people how to report problems and ask questions.**
+Example text:
 
 The source code in this repository is licensed under the terms of the [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
 Contributions and questions are welcome via issues.

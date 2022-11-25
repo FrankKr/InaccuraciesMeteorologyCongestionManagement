@@ -55,7 +55,7 @@ Or APA format:
 
 1. Clone this repository as a template and run `pip install pre-commit` and `pre-commit install`.
 2. Install the [Probot settings app](https://github.com/apps/settings).
-3. Add to [Binder](https://mybinder.org/) and [Get a DOI](https://guides.github.com/activities/citable-code/) for your repo.
+3. Add to [Binder](https://mybinder.org/) and [Get a DOI](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) for your repo.
 4. Make a local clone of your repo. Modify the readme, changelog, etc. Add your code/notebooks.
 5. Commit and push to _main_. (If a linter fails on commit, just re-run. It just meant the linter modified a file.)
 

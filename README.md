@@ -10,12 +10,6 @@ TODO's
 - Get DOI from Zenodo
 - update ReadMe
 
-
-
-🧪 A simple, elegant template for repositories supporting publications.  
-Scientific companion to the much more sophisticated code template [Tyrannosaurus 🦖](https://github.com/dmyersturnbull/tyrannosaurus)  
-No cookiecutter. Just click _Use this Template_ above.
-
 ### 👋 Citing
 
 **Just tell people how to cite your work.**

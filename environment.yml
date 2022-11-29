@@ -7,4 +7,5 @@ dependencies:
     - openstef==3.2.26
     - tqdm
     - PyYAML
+    - kaleido==0.1.0post1
   

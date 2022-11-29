@@ -1,0 +1,15 @@
+forecast_type: demand
+horizon_minutes: 1440
+lat: 1
+lon: 1
+model: xgb
+n_folds: 57
+quantiles:
+- 0.1
+- 0.3
+- 0.5
+- 0.7
+- 0.9
+resolution_minutes: 15
+training_horizons:
+- 24

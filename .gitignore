@@ -42,6 +42,7 @@ sdist/
 docs/_build
 cython_debug/
 docs/autoapi
+*/iframe_figures*
 
 # Hidden files that are definitely unwanted (redundant)
 .tox/
@@ -56,6 +57,10 @@ hs_err_pid*
 *.jl.*.cov
 *.jl.mem
 deps/deps.jl
+
+# raw datafiles
+*raw
+!*/project/raw/ReadMe.md
 
 # Keep these config files
 !/.gitignore

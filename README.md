@@ -1,7 +1,7 @@
 # InaccuraciesMeteorologyCongestionManagement
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrankKr/InaccuraciesMeteorologyCongestionManagement/HEAD)
-[![DOI](https://zenodo.org/badge/555403039.svg)](https://zenodo.org/badge/latestdoi/7382725)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7382725.svg)](https://doi.org/10.5281/zenodo.7382725)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repository contains a framework to: 
@@ -17,8 +17,8 @@ Please reference the repository with this BibTeX:
 
 ```
 @misc{sciencenotebooktemplate,
-  doi = {10.5281/zenodo.7382725},
-  url = {https://zenodo.org/record/7382725},
+  doi = {10.5281/zenodo.7382724},
+  url = {https://zenodo.org/record/7382724},
   author = {Kreuwel, F.P.M.},
   title = {InaccuraciesMeteorologyCongestionManagement v1.0.0},
   year = {2022},
@@ -28,7 +28,7 @@ Please reference the repository with this BibTeX:
 
 Or APA format:
 
-> Kreuwel, F.P.M. (2022). InaccuraciesMeteorologyCongestionManagement (v1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7382725
+> Kreuwel, F.P.M. (2022). InaccuraciesMeteorologyCongestionManagement (v1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7382724
 
 
 ### 🍁 Contributing
